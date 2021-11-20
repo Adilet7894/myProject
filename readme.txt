@@ -1,3 +1,4 @@
 Adilet
-Nasirov
+Adilet Nasirov
+
 
